@@ -77,3 +77,4 @@ android/app/src/main/res/drawable-xxhdpi/assets_images_logo_logo.png
 android/app/src/main/res/drawable-xxhdpi/launch_screen.jpg
 android/app/src/main/res/drawable-xxxhdpi/launch_screen.jpg
 package-lock.json
+android/app/google-services.json
